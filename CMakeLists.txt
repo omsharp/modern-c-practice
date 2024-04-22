@@ -31,8 +31,7 @@ include_directories(./include)
 
 # set the source code files
 add_executable(${PROJECT_NAME}
-    src/main.c
-    src/greeter.c)
+    src/main.c)
 
 # add a shared (dynamic) libaray
 # add_library("[_myLibraryName]" SHARED [source path])
