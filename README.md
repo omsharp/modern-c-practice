@@ -1,1 +1,1 @@
-#### A template for simple C projects using CMake and VSCode.
+#### Parctice code and challenges for the book Modern C by Jens Gustedt.
